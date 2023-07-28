@@ -1,0 +1,5 @@
+cpu: "i7-9700K"
+gpu: "RTX 2070 SUPER"
+ram: "32014MiB"
+monitor: 3
+launch-script: "/home/sawors/.scripts/desktops/launch/main.sh"
