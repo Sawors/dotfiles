@@ -1,0 +1,3 @@
+*.log
+.scripts/desktops/launch/*
+.scripts/desktops/*.yml
