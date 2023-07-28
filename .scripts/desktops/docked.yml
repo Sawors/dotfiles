@@ -1,5 +1,0 @@
-cpu: "AMD Ryzen 7 5800H"
-gpu: "NVIDIA GeForce RTX 3050 Ti Mobile"
-ram: "15375MiB"
-monitors: 2
-launch-script: "/home/sawors/.scripts/desktops/launch/docked.sh"
