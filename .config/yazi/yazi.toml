@@ -1,0 +1,7 @@
+# https://yazi-rs.github.io/docs/configuration/yazi
+
+[manager]
+
+sort_dir_first = true
+linemode = "size"
+show_hidden = true
