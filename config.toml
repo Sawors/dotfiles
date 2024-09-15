@@ -1,1 +1,16 @@
-/home/sawors/.config/helix/config.toml
+# Documentation about configuration:
+# https://docs.helix-editor.com/configuration.html
+
+theme = "onedark_alpha"
+
+[editor]
+line-number = "relative"
+mouse = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.file-picker]
+hidden = false
