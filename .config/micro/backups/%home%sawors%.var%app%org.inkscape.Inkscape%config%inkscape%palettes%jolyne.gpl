@@ -1,0 +1,73 @@
+GIMP Palette
+Name: Jolyne Cujoh
+#-------------> =TODO
+#
+# Outline
+887675  3031  Outline
+#
+# Hair (Dark Green)
+96b172  772   Hair 1 Light
+4f6b3d  3346  Hair 1 Mid
+0e1207  895   Hair 1 Dark
+#
+# Hair (Yellow-ish)
+faf6d3  746   Hair 2 Light
+e7cf68  3078  Hair 2 Mid
+8a8233  471   Hair 2 Dark
+#
+# Skin
+f9e1c7  951   Skin Light
+f5d0a8  3856  Skin Mid
+b17354  402   Skin Dark
+#
+# Nails
+96b172  772   Nail Light
+4f6b3d  3846  Nail Dark
+#
+# Eyes
+73ad76  164   Eye Light
+1b5d35  910   Eye Dark
+526a46  3031  Pupil
+ece6e4  BLC   Eye White Light
+ece6e4  762   Eye White Dark
+887675  891   Eye Flesh
+#
+# Eyebrows
+887675  823   Eyebrow
+#
+# Lips
+4f6b3d  3346  Upper Lip
+faf6d3  746   Lower Lip Light
+8a8233  471   Lower Lip Dark
+#
+# Butterfly (Arm)
+7d9dcf  3840  Wing Light Blue
+4c69a5  825   Wing Dark Blue
+cc669c  3608  Wing Light Pink
+74345c  917   Wing Dark Pink
+6e5e88  762   Sword Blade Light
+ccdbe4  415   Sword Blade Dark
+6e5e88  762   Sword Hilt Light
+7798aa  3840  Sword Hilt Dark
+887675  823   Black Spots
+#
+# Butterfly (Chest)
+7d9dcf  3840  Wing Light
+4b94a0  958   Wing Mid
+51538f  824   Wing Dark
+#
+# Armband
+b2e0f4  762   Armband Highlight
+7d9dcf  3840  Armband Light
+304b68  824   Armband Dark
+#
+# Suit
+446963  503      Suit Light
+395652  502      Suit Mid
+281913  501  Suit Dark
+fbdeba  951   Suit Gold Light
+d89052  3820  Suit Gold Mid
+8b4b24  680   Suit Gold Dark
+61311e  869   Suit Gold Darker
+c4b8a1  762   Suit Stripe Light
+6f654d  415   Suit Stripe Mid
